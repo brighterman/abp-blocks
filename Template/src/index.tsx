@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
-import { Link, connect } from 'umi';
+import React from 'react';
+import {  connect } from 'umi';
 import { PageHeaderWrapper } from '@ant-design/pro-layout';
-import moment from 'moment';
 import { ModalState } from './model';
 import { PAGE_NAME_UPPER_CAMEL_CASEDto } from './data.d';
 

@@ -1,0 +1,23 @@
+{
+  "name": "identityrole",
+  "version": "0.0.1",
+  "description": "identityrole",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umijs/umi-blocks/ant-design-pro/workplace"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "umi-request": "^1.0.0"
+  },
+  "peerDependencies": {
+    "@ant-design/pro-layout": "^4.5.5"
+  },
+  "blockConfig": {
+    "specVersion": "0.1"
+  }
+}
